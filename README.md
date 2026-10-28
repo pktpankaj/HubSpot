@@ -1,4 +1,4 @@
-![Pankaj Thakur — Marketing, sales and revenue operations](./assets/skills-banner.svg)
+![Pankaj Thakur — Customer insight. Connected growth.](./assets/portfolio-hero.gif)
 
 # Marketing, sales & revenue operations
 
@@ -8,9 +8,9 @@ I bring together customer understanding, marketing execution and commercial oper
 
 This portfolio organises my completed training around the skills it supports, with direct access to all 11 certificate records.
 
-[Explore skills](#skills-at-a-glance) · [Browse certificates](#certificate-library) · [View certificate previews](#certificate-previews) · [Connect on LinkedIn](https://www.linkedin.com/in/pankajvnt/)
+[Explore skills](#skills-at-a-glance) · [How I work](#how-i-work) · [Where I can help](#where-i-can-help) · [Browse certificates](#certificate-library) · [View certificate previews](#certificate-previews) · [Connect on LinkedIn](https://www.linkedin.com/in/pankajvnt/)
 
----
+![Moving cyan, blue and amber markers connecting the portfolio sections](./assets/section-flow.gif)
 
 ## Skills at a glance
 
@@ -18,7 +18,7 @@ This portfolio organises my completed training around the skills it supports, wi
 <tr>
 <td width="50%" valign="top">
 
-### 01 / Strategy & customer understanding
+![01 / Strategy & customer understanding](./assets/strategy-card.svg)
 
 Buyer personas, customer journeys, inbound planning and clear business goals. Connecting marketing activity to the questions and decisions that matter to customers.
 
@@ -27,7 +27,7 @@ Buyer personas, customer journeys, inbound planning and clear business goals. Co
 </td>
 <td width="50%" valign="top">
 
-### 02 / Content & acquisition
+![02 / Content & acquisition](./assets/acquisition-card.svg)
 
 Content planning, search visibility, social distribution and paid campaigns. Bringing audience needs, channel choices and messaging into a coherent acquisition approach.
 
@@ -38,7 +38,7 @@ Content planning, search visibility, social distribution and paid campaigns. Bri
 <tr>
 <td width="50%" valign="top">
 
-### 03 / Email & website improvement
+![03 / Email & website improvement](./assets/lifecycle-card.svg)
 
 Audience segmentation, relevant email communication, deliverability and performance analysis. Using research and continuous improvement to make websites more useful.
 
@@ -47,7 +47,7 @@ Audience segmentation, relevant email communication, deliverability and performa
 </td>
 <td width="50%" valign="top">
 
-### 04 / Sales & revenue operations
+![04 / Sales & revenue operations](./assets/revenue-card.svg)
 
 Sales-process design, shared responsibilities, service-level agreements and systems management. Supporting teams through coaching, training and onboarding.
 
@@ -57,7 +57,30 @@ Sales-process design, shared responsibilities, service-level agreements and syst
 </tr>
 </table>
 
-## From knowledge to practical work
+## How I work
+
+![Four connected steps: attract, engage, convert and improve](./assets/working-process.gif)
+
+**Attract the right audience.** Understand customer needs and choose the content and channels that fit them.
+
+**Engage with relevance.** Connect messages to the buying journey, with useful content and segmented communication.
+
+**Support conversion.** Improve the website experience and clarify the handoff between marketing and sales.
+
+**Keep improving.** Review campaign results, customer feedback and process gaps to decide what to change next.
+
+![Animated transition between process and areas of support](./assets/section-flow.gif)
+
+## Where I can help
+
+| Area of support | What the work can include |
+| --- | --- |
+| **🔷 Customer and inbound strategy** | Buyer personas, a customer-journey map and a plan connecting audience needs to marketing activity. |
+| **🟠 Content and acquisition planning** | Editorial priorities, search opportunities, social content and paid-campaign briefs. |
+| **🔵 Email and website improvement** | Contact segmentation, email review priorities and a website improvement backlog informed by user research. |
+| **🟣 Marketing and sales alignment** | Process maps, handoff responsibilities, shared expectations and team onboarding plans. |
+
+### From knowledge to practical work
 
 | Focus | What I bring to the work |
 | --- | --- |
@@ -67,6 +90,8 @@ Sales-process design, shared responsibilities, service-level agreements and syst
 | Strengthen conversion | Use customer research and website improvements to reduce friction. |
 | Align marketing and sales | Clarify process stages, responsibilities, handoffs and shared expectations. |
 | Measure and improve | Review campaign performance, attribution and experiments to guide the next decision. |
+
+![Animated transition into completed training and certificate records](./assets/section-flow.gif)
 
 ## Certificate library
 
